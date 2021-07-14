@@ -8,8 +8,11 @@ File distribution with choking and unchoking mechanism among peers using TCP (re
 Demonstration of our project - https://www.youtube.com/watch?v=p3UrP283pns
 
 Group members: 
+
 (i) Kratika Singhal, UF ID:6953-5971 
+
 (ii) Suprith Reddy Gurudu, UF ID:9961-2134 
+
 (iii) Akshay Kumar, UF ID:4679-9946
 
 How to execute the project:
