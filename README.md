@@ -1,10 +1,16 @@
 # CNT5106C_Peer_To_Peer_File_Sharing_System
+
 Computer Networks (CNT5106C UF) Course Project - Fall 2020
 
 Build a P2P file-sharing application similar to BitTorrent protocol in Java.
 File distribution with choking and unchoking mechanism among peers using TCP (reliable transport layer protocol).
-Group Number: 12
-Group members: (i) Kratika Singhal, UF ID:6953-5971 (ii) Suprith Reddy Gurudu, UF ID:9961-2134 (iii) Akshay Kumar, UF ID:4679-9946
+
+Demonstration of our project - https://www.youtube.com/watch?v=p3UrP283pns
+Group members: 
+(i) Kratika Singhal, UF ID:6953-5971 
+(ii) Suprith Reddy Gurudu, UF ID:9961-2134 
+(iii) Akshay Kumar, UF ID:4679-9946
+
 How to execute the project:
 
 open the terminal (in lin114-00 to lin114-08 lab servers)
